@@ -1,0 +1,30 @@
+[
+  {
+    "content": "Phase 1: POC - port OpenAkita persona parser, validate expert.md (48/48 checks, injected 1703 tokens)",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: Design guidelines via design_agent (technical, no emoji)",
+    "status": "in_progress"
+  },
+  {
+    "content": "Phase 2: Backend - real parser port + endpoints (get/validate/save/download/reset/reference)",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: Frontend - editor, validation report, prompt preview, copy, download, reset",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: All user stories from plan.md covered",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: End to End Testing using testing_agent_v3",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: Fix all issues reported by testing agent",
+    "status": "pending"
+  }
+]
